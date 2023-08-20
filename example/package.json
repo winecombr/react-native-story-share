@@ -14,7 +14,7 @@
     "react": "16.8.3",
     "react-native": "0.59.4",
     "react-native-permissions": "^1.1.1",
-    "react-native-story-share": "file:..",
+    "react-native-story-share": "0.7.0",
     "react-native-view-shot": "^2.6.0"
   },
   "devDependencies": {
